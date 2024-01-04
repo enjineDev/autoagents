@@ -178,8 +178,9 @@ We welcome contributions to Agency Swarm! Please feel free to submit issues, pul
 
 Agency Swarm is open-source and licensed under [MIT](https://opensource.org/licenses/MIT).
 
-
+## Interested into AI Automation?
+Follow me on my Social Media and subscribe for exclusive insights, guides and reports: [christonomous.dev](https://christonomous.dev)
 
 ## Need Help?
 
-If you require assistance in creating custom agent swarms or have any specific queries related to Agency Swarm, feel free to reach out through my website: [vrsen.ai](https://vrsen.ai)
+If you require assistance in creating custom agent swarms or have any specific queries related to Agency Swarm, feel free to reach out through our platform development agency: [nujin.dev](https://nujin.dev)
