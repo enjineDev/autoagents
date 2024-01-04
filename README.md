@@ -176,7 +176,7 @@ We welcome contributions to Agency Swarm! Please feel free to submit issues, pul
 
 ## License
 
-Agency Swarm is open-source and licensed under [MIT](https://opensource.org/licenses/MIT).
+Agency Swarm is open-source and licensed under Apache 2.0.
 
 ## Interested into AI Automation?
 Follow me on my Social Media and subscribe for exclusive insights, guides and reports: [christonomous.dev](https://christonomous.dev)
