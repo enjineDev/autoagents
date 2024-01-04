@@ -4,8 +4,8 @@
 **Auto Agents** is an open-source agent orchestration framework designed to automate and streamline AI development processes. Leveraging the power of the OpenAI Assistants API, it enables the creation of a collaborative swarm of agents (Agencies), each with distinct roles and capabilities. This framework aims to replace traditional AI development methodologies with a more dynamic, flexible, and efficient agent-based system.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qGVyK-vIoxZD0dMrMVqCxCsgL1euMLKj)
-[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCSv4qL8vmoSH7GaPjuqRiCQ
-)](https://youtube.com/@vrsen/)
+[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UC88VCGcIFgua5MAdkOY98PA
+)](https://youtube.com/@christonomous/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/__vrsen__.svg?style=social&label=Follow%20%40christonomous)](https://twitter.com/christonomous)
 
 ## Key Features
