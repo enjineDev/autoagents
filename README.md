@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-pip install git+https://github.com/VRSEN/agency-swarm.git
+pip install git+https://github.com/nujinDevelopment/autoagents.git
 ```
 
 ## Getting Started
